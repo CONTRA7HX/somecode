@@ -1,0 +1,51 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    font-size: large;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    font-size:x-large;
+  
+}
+ol{
+    cursor: pointer;
+    color: red;
+}
+nav{
+    width: 60vw;
+    margin-top: 10px;
+}
+.big image{
+    width: 95vw;
+    margin: 1rem;
+}
+.container
+{
+    display: flex;
+}
+.container>div{
+    text-align: center;
+
+}
+.container>div>p
+{
+    font-size: x-large;
+}
+footer
+{
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+    height: 4rem;
+    font-size: x-large;
+
+}
+footer>p
+{
+     margin-top: 1rem;
+
+}
